@@ -159,4 +159,13 @@
     "side-channel": "^1.0.4",
     "strip-bom": "^3.0.0"
   },
+    "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "description": ""
 }
